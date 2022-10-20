@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## I am a student at University of Washington, and Developer. 
+- 🔭I'm currently in the process of completing a coding bootcamp with Coding Dojo. 
+- 🌱 I'm in the process of learning Java, Javascript and Python.
+- 🎆 I'm open to work as I graduate in 2023.
+- 📚 I have goals to develope 20 mini projects and 2-3 bigger projects. 
+- 📷 Fun fact: I love to hike and capture nature photography. 
+
+
 <!--
 **laurenmmorgs/laurenmmorgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
