@@ -2,9 +2,9 @@
 
 ## I am a student at University of Washington, and Developer. 
 - 🔭I'm currently in the process of completing a coding bootcamp with Coding Dojo. 
-- 🌱 I'm in the process of learning Java, Javascript and Python.
+- 🌱 I know Java, Javascript and Python.
 - 🎆 I'm open to work as I graduate in 2023.
-- 📚 I have goals to develope 20 mini projects and 2-3 bigger projects. 
+- 📚 I have goals to develop 20 mini projects and 2-3 bigger projects. 
 - 📷 Fun fact: I love to hike and capture nature photography. 
 
 
