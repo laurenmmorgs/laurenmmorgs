@@ -8,7 +8,7 @@
 - 📷 Fun fact: I love to hike and capture nature photography. 
 
 
-<a href="https://www.linkedin.com/in/lauren-morgan22/> </a>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
 
