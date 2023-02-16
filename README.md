@@ -1,3 +1,5 @@
+
+<img src=https://dribbble.com/shots/5487982-Developers-Gif](https://dribbble.com/shots/5487982-Developers-Gif/attachments/10896348?mode=media />
 <h1 align="center">Hi 👋, I'm Lauren Morgan</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
