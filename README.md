@@ -1,6 +1,5 @@
 
-<img src=" ![2a53651a35816f499270d8275fd5318f](https://user-images.githubusercontent.com/95324483/220154745-be4cc56b-1f98-438c-8d15-9e1b8dfd2df4.gif)
-" />
+<img src="https://user-images.githubusercontent.com/95324483/220155125-6763b9c5-9a24-442d-958c-005617753d4d.gif" />
 <h1 align="center">Hi 👋, I'm Lauren Morgan</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
