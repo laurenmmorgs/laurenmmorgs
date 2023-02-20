@@ -1,7 +1,7 @@
 
 <img  align="center" width="2500" src="https://images.yourstory.com/cs/wordpress/2018/02/API.gif?w=752&fm=auto&ar=2:1&mode=crop&crop=faces" />
 <h1 align="center">Hi 👋, I'm Lauren Morgan</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">A passionate full stack developer. Seeking an entry level job in either front end or backend. </h3>
 
 - 🌱 I’m currently learning **React**
 
