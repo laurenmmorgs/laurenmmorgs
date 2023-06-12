@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Lauren Morgan</h1>
 <h3 align="center">A passionate full stack developer.  </h3>
 
-- 🌱 I’m currently enjoying React! 
+- 🌱 I’m currently enjoying Typescript! 
 
 - 👨‍💻 All of my projects are available at [github.com/laurenmmorgs](github.com/laurenmmorgs)
 
 - 💬 Ask me about **Java, Javascript, MERN, Python, Flask, SpringBoot**
-
-- 📫 How to reach me **laurenmmorgan02@gmail.com**
 
 - ⚡ Fun fact **I love to hike when I am not coding.**
 
